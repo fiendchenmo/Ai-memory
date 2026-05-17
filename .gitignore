@@ -8,3 +8,8 @@ desktop.ini
 sync.log
 
 # Keep only the archive and index
+
+# API key patterns — prevent accidental credential commits
+*.env
+*.env.*
+**/reference_api_keys.md
