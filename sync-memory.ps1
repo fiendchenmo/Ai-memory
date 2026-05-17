@@ -7,7 +7,7 @@
 param(
     [string]$MemorySource = "$env:USERPROFILE\.claude\projects\C--Users-dj\memory",
     [string]$RepoRoot = "$env:USERPROFILE\long-term-memory",
-    [string]$GitRemote = ""
+    [string]$GitRemote = "https://github.com/fiendchenmo/Ai-memory"
 )
 
 $ErrorActionPreference = "Stop"
