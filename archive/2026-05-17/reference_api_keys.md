@@ -8,12 +8,12 @@ metadata:
 ---
 
 **DeepSeek API Key** (for CodeLens CLI):
-- Env var: `ANTHROPIC_AUTH_TOKEN=[REDACTED]`
+- Env var: 
 - Base URL: `https://api.deepseek.com`
 - Also set as `ANTHROPIC_BASE_URL` and `ANTHROPIC_MODEL=deepseek-chat`
 
 **Coze Chat**:
 - Project: `//wsl.localhost/Ubuntu/home/dj/coze-chat/`
-- Token in `.env` file: `COZE_TOKEN=[REDACTED]`
+- Token in `.env` file: 
 - Backend: `backend.py` (Python SSE streaming server)
 - Host: `5tkfcxq3jf.coze.site`, path: `/stream_run`
