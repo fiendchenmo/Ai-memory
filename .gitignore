@@ -1,0 +1,10 @@
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temp
+*.tmp
+*.log
+sync.log
+
+# Keep only the archive and index

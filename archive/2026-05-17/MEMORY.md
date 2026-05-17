@@ -1,0 +1,5 @@
+- [User Profile](user_profile.md) — Senior Java/enterprise developer, code analysis focus
+- [Evaluation Standards](feedback_evaluation.md) — How to approach architecture evaluation and benchmark tasks
+- [Communication Style](feedback_communication.md) — Concise, no emojis, no running commentary
+- [CodeLens Benchmark Findings](project_codelens_benchmark.md) — XLARGE counter-intuitive L1 performance, API latency analysis
+- [API Keys & Project Paths](reference_api_keys.md) — DeepSeek key location, Coze project paths
