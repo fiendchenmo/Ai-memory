@@ -9,6 +9,10 @@ archive/
 ├── YYYY-MM-DD/
 │   ├── *.md          # Memory files from that date
 │   └── INDEX.md      # Snapshot of MEMORY.md for that date
+codelens/              # CodeLens project governance & decisions
+communication/         # Naming & communication guidelines
+credentials/           # Credential security cleanup records
+environments/          # Environment setup references
 MEMORY_INDEX.md        # Master index of all memories
 ```
 
