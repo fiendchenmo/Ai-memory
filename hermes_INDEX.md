@@ -2,7 +2,7 @@
 
 | 日期 | 关键词 | 涉及项目 |
 |------|--------|----------|
-| 05-21 | A组Flash全量基准测试通过(77.2分), B组Pro放弃全量, C组千问qwen-plus抽样对比, 豆包模型切换, ACTIVE.md同步 | codelens-plugin, codelens-common |
+| 05-21 | 插件端CI配置编写, JitPack v0.2.2→v0.2.3, Cline入职+.clinerules配置, 豆包vision key飞书群泄露(安全事件修复), 飞书长连接检查+send失败, A组Flash基准测试通过(77.2分), B组Pro放弃, C组qwen-plus抽样 | codelens-plugin, codelens-common |
 | 05-20 | JitPack接入+v0.2.1直连, 喵呜JDK兼容修复, 96/96测试通过, 飞书网关线程修复, 三层交叉验证全量落地, Hermes v0.14升级分析, ACTIVE.md同步, 基准测试规划 | codelens-plugin, codelens-common, hermes-agent |
 | 05-19 | P2 Fix全部完工, 架构评审+CR修复, M1加固验收, Schema v2字段对齐, UNKNOWN置信度, buildBase三层Prompt定稿, CODELENS_SPEC v0.2, 需求文档对齐, 豆包vision配置, 模型选型确认, 飞书网关修复 | codelens-plugin, codelens-common, long-term-memory |
 | 05-18 | P0-5重复IO修复, P0-6原生库沙箱, P1-4空catch, P1-8 LRU缓存, P1-10校验器, P1-5 God Class拆分, 飞书配置优化, 卡片模式评估, 长期记忆归档, 多Provider评估, X1/X3/M2.2/X4拍板, CLI多Provider Phase2, 沙箱runIde排查 | codelens-plugin, long-term-memory |
