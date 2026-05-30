@@ -2,6 +2,8 @@
 
 | 日期 | 关键词 | 涉及项目 |
 |------|--------|----------|
+| 05-29 | **基准测试time stamp注入**(mode/startTimestamp/elapsedMs), Multi-Agent修复(EDT卡死+PSI越界+getter/setter+V3降级+框架兼容+CacheConfig), 基准测试对比脚本(benchmark_compare.py), 代码推送+知识图谱同步 | codelens-plugin, mo_memory |
+| 05-28 | **代码审查+多分支合入**(cleanup/ftsindexer+fix/implements+fix/vfs-delete), UI修复(Summary固定150px), called_by backfill缓存, 008需求文档v1.1(新增报告落盘§2.8), 多Agent+报告落盘合入main, 122测试通过, 切Pro模型 | codelens-plugin |
 | 05-30 | **Coze Bridge配对**(2次成功+后续spawn error-32004属Coze平台), GitHub SSH 443端口配置(ssh.github.com+WSL/Windows双配), 长期记忆仓库修复(push 5/27补充commit+443配置后预期cron恢复) | codelens-plugin, mo_memory |
 | 05-26 | P-4 called_by三大Bug修复(AnalysisRunner传null/Getter-setter参数个数过滤/SQLite显式加载), skill-creator+self-evolve方向修正(删除批量模式/归档cross-agent-code-review/补全查询模板+infra白名单), 反向依赖UI退化修复(ReadAction+行号转换+诊断日志), graph.db重建error(getTextOffset=-1)+ReadAction卡死修复, 基准测试T10/T11通过, OpenRouter DNS被墙定位 | codelens-plugin, hermes-agent |
 | 05-25 | WSL连接诊断(networkingMode=mirrored), DeepSeek配置修复(config.yaml缺providers.deepseek), REQ-C7 P1×3审查通过, 边界问题评估(嵌套括号/methods fallback均不修), PsiGraphEngine整理(插件端独立不迁移CLI), testClassStereotype修复(a158684), C-9/C-11喵呜提前交付确认, 待办清单同步确认, P-2等喵呜双模式输出 | codelens-plugin, codelens-common, hermes-agent |
