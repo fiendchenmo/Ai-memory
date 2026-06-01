@@ -2,7 +2,7 @@
 
 | 日期 | 关键词 | 涉及项目 |
 |------|--------|----------|
-| 05-31 | **Phase6 插件端文档**(015需求+006测试用例), **Phase6 common完成**(dd7a9f9, 489测试, v0.5.0发布), 模型切换 Qwen3.7-Max(dashscope试用中), PackageSummaryPanel设计决策(架构层着色区块B+右键触发A+9色方案), CodeQA分工确认, HTML mockup, 记忆瘦身 | codelens-plugin, codelens-common |
+| 06-01 | **Sandbox锁排查**(创建codelens-build-workflow skill), **PackageSummaryPanel乱码排查+水平滚动条修复**, **called_by验证**(runIde有结果+callindex.db hit), **Gradle编译调试**(class不更新,未解决), 20:00喵呜待办(common v0.6.1已交付) | codelens-plugin |
 | 05-30 | **Coze Bridge配对**(2次成功+spawn error-32004), GitHub SSH 443端口(ssh.github.com双配), 长期记忆仓库修复(push 5/27补充commit), 补写5/28~5/29归档, **插件端排期**(Phase6→DomainView 3 commits+ROADMAP), **009 QA历史需求文档**, 三个关键决策确认(Diff纯CLI算/QA ChatPanel/图谱WebView), Phase7.5分工确认 | codelens-plugin, mo_memory |
 | 05-29 | **基准测试time stamp注入**(mode/startTimestamp/elapsedMs), Multi-Agent修复(EDT卡死+PSI越界+getter/setter+V3降级+框架兼容+CacheConfig), 基准测试对比脚本(benchmark_compare.py), 代码推送+知识图谱同步 | codelens-plugin, mo_memory |
 | 05-28 | **代码审查+多分支合入**(cleanup/ftsindexer+fix/implements+fix/vfs-delete), UI修复(Summary固定150px), called_by backfill缓存, 008需求文档v1.1(新增报告落盘§2.8), 多Agent+报告落盘合入main, 122测试通过, 切Pro模型 | codelens-plugin |
