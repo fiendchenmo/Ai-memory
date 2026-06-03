@@ -2,6 +2,7 @@
 
 | 日期 | 关键词 | 涉及项目 |
 |------|--------|----------|
+| 06-03 | **安静日** — 全天无新会话、无新任务。两次 cron 例行（喵呜待办清单+归档）。待办状态不变。 | codelens-plugin |
 | 06-01 | **Sandbox锁排查**(创建codelens-build-workflow skill), **PackageSummaryPanel乱码排查+水平滚动条修复**, **called_by验证**(runIde有结果+callindex.db hit), **Gradle编译调试**(class不更新,未解决), 20:00喵呜待办(common v0.6.1已交付) | codelens-plugin |
 | 05-30 | **Coze Bridge配对**(2次成功+spawn error-32004), GitHub SSH 443端口(ssh.github.com双配), 长期记忆仓库修复(push 5/27补充commit), 补写5/28~5/29归档, **插件端排期**(Phase6→DomainView 3 commits+ROADMAP), **009 QA历史需求文档**, 三个关键决策确认(Diff纯CLI算/QA ChatPanel/图谱WebView), Phase7.5分工确认 | codelens-plugin, mo_memory |
 | 05-29 | **基准测试time stamp注入**(mode/startTimestamp/elapsedMs), Multi-Agent修复(EDT卡死+PSI越界+getter/setter+V3降级+框架兼容+CacheConfig), 基准测试对比脚本(benchmark_compare.py), 代码推送+知识图谱同步 | codelens-plugin, mo_memory |
