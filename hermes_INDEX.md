@@ -2,6 +2,7 @@
 
 | 日期 | 关键词 | 涉及项目 |
 |------|--------|----------|
+| 06-10 | **安静日** — 全天无新会话。20:00 喵呜待办（common v0.6.27 已升版 ✅），21:00 归档 | codelens-plugin |
 | 06-04 | **安静日（白天）+ 22:53默默主动问排期**(Diff分析后Phase7/7.5定义讨论, RefactorPanel解释, 存量待办再次提及) | codelens-plugin |
 | 06-03 | **安静日** — 全天无新会话、无新任务。两次 cron 例行（喵呜待办清单+归档）。待办状态不变。 | codelens-plugin |
 | 06-01 | **Sandbox锁排查**(创建codelens-build-workflow skill), **PackageSummaryPanel乱码排查+水平滚动条修复**, **called_by验证**(runIde有结果+callindex.db hit), **Gradle编译调试**(class不更新,未解决), 20:00喵呜待办(common v0.6.1已交付) | codelens-plugin |
